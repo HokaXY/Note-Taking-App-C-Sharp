@@ -1,0 +1,14 @@
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Notetaker.resources
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.exe.manifest
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\bin\Debug\NoteTakingApp.application
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.exe.manifest
+C:\Users\sabab\source\repos\NoteTakingApp\NoteTakingApp\obj\Debug\NoteTakingApp.application
